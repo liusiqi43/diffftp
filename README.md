@@ -9,6 +9,7 @@ Developed for my own use to download TV series :)
 * Rename settings_common.py to settings.py and config accordingly.
 * Read comments in settings_common.py
 
+
     python run.py
 
 You will be asked if you want to download all the new files. 
