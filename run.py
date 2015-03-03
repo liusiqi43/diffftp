@@ -51,7 +51,7 @@ def main():
     print 'To be downloaded:'
     pp.pprint(tasks)
     c = raw_input('Continue? (y/n)')
-    if c == 'y' or c == 'Y':
+    if c in 'Yy':
         for fname, path in tasks:
             print 'Downloading... %s' % fname 
             if not os.path.exists(settings.DOWNLOAD):
