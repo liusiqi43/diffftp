@@ -6,5 +6,7 @@ scripts to monitor/download new added files
 
 # Usage
 rename settings_common.py to settings.py and config accordingly.
+
     python run.py
+
 You will be asked if you want to download all the new files.
