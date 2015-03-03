@@ -1,6 +1,7 @@
 # diffftp
-Simple scripts to monitor/download added files, feel free to fork if you find it useful. =)
-Developed for my own use to download TV series :)
+Simple scripts to monitor/download added files, feel free to fork if you find it useful. 
+
+Developed for my own use to download TV series =)
 
 # Installation
     git clone https://github.com/liusiqi43/diffftp.git
