@@ -6,9 +6,7 @@ Developed for my own use to download TV series :)
     git clone https://github.com/liusiqi43/diffftp.git
 
 # Usage
-* Rename settings_common.py to settings.py and config accordingly.
-* Read comments in settings_common.py
-
+Rename settings_common.py to settings.py and config accordingly (comments in settings_common.py).
 
     python run.py
 
