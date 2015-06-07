@@ -14,5 +14,6 @@ PASSWD = 'passwd'
 DOWNLOAD = 'downloads'
 
 # Folders being monitered.
+# The script will monitor 'ftp.com/BASE_FOLDER/Path/To/Folder1'
 FOLDERS = ['Path/To/Folder1',
            'Another/Path/To/Folder2']
